@@ -1,21 +1,21 @@
 # main links links
 main:
   - title: "Research"
-    url: "/HN-Jiang-en.github.io/#research-direction"
+    url: "/#research-direction"
 
   - title: "Higher Education"
-    url: "/HN-Jiang-en.github.io/#education"
+    url: "/#education"
 
   - title: "Publications"
-    url: "/HN-Jiang-en.github.io/#-publications"
+    url: "/#-publications"
 
   - title: "Projects"
-    url: "/HN-Jiang-en.github.io/#-honors-and-awards"
+    url: "/#-honors-and-awards"
 
   - title: "Conference"
-    url: "/HN-Jiang-en.github.io/#-educations"
+    url: "/#-educations"
 
   - title: "Reference"
-    url: "/HN-Jiang-en.github.io/#-invited-talks"
+    url: "/#-invited-talks"
 
 
