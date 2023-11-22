@@ -26,7 +26,7 @@ Photogrammetry and Remote Sensing, Geohazard Monitoring, SAR & InSAR, Multi-Sens
 ## Journal Articles
 ### First author & Corresponding author
 ---
-- <span style="color: #E65555; background-color: yellow; font-weight: bold;">Jiang, Haonan</span>, Timo Balz, Jianan Li and Vishal Mishra. 2023. Preliminary Investigation of Sudden Ground Subsidence and Building Tilt in Balitai Town, Tianjin City, on May 31, 2023. *Remote Sensing*, 2023, 15 (19): 4891 (IF:5.0) [Link](https://www.mdpi.com/2072-4292/15/19/4891)
+- `Jiang, Haonan`, Timo Balz, Jianan Li and Vishal Mishra. 2023. Preliminary Investigation of Sudden Ground Subsidence and Building Tilt in Balitai Town, Tianjin City, on May 31, 2023. *Remote Sensing*, 2023, 15 (19): 4891 (IF:5.0) [Link](https://www.mdpi.com/2072-4292/15/19/4891)
 -	`Jiang, Haonan`, Timo Balz, Francesca Cigna, Deodato Tapete, Jianan Li, and Yakun Han. 2023.  Multi-Sensor InSAR Time Series Fusion for Long-Term Land Subsidence Monitoring. *Geo-Spatial Information Science*, 2023, May,1-17 (IF:6.0) [Link](https://doi.org/10.1080/10095020.2023.2178337)
 - `Jiang, Haonan`, Timo Balz, Francesca Cigna, and Deodato Tapete. 2021. Land Subsidence in Wuhan Revealed Using a Non-Linear PSInSAR Approach with Long Time Series of COSMO-SkyMed SAR Data. *Remote Sensing*, 2023, 13(7): 1256.(IF:5.0) [Link](https://www.mdpi.com/2072-4292/13/7/1256)
 - `Jiang, Haonan`, Timo Balz and Jianan Li. 2023. Land Subsidence in Wuhan Revealed Using a Multi-Sensor InSAR Time Series Fusion Approach. *The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences* (EI) (accepted)
