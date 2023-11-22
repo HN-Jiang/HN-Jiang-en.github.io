@@ -56,5 +56,76 @@ Photogrammetry and Remote Sensing, Geohazard Monitoring, SAR & InSAR, Multi-Sens
 
 <span class='anchor' id='project'></span>
 
+# 📁 项目经历
+
+<table align="left">
+    <tr>
+    <th>📆2023.01-2024.12</th><th>Multi-decade urban subsidence monitoring with multi-temporary PS technique</th><th>National Natural Science Foundation of China(NSFC)</th>
+    </tr>
+    <tr>
+    <th colspan="3">• The main research focus of the project is to provide a solution for long-term subsidence monitoring in urban areas spanning several decades through the fusion of multi-sensor InSAR data.<br>• I am primarily responsible for the research on multi-sensor data fusion and the development of a comprehensive approach for handling long-term subsidence non-linear deformation, involving multiple models and parameters.</th>
+    </tr>
+    <tr>
+    <th >📆2019.01-2020.12</th><th>SARchaeology: exploiting satellite SAR for archaeological prospection and heritage site protection</th><th>NSFC-ESA Dragon project</th>
+    </tr>  
+    <tr>
+    <th colspan="3">• The main objective of the project is archaeological exploration and heritage preservation using SAR remote sensing. There are numerous buried archaeological sites in arid regions of China and in the outskirts and rural areas of the Rome Province in Italy. Various SAR data from different platforms with different wavelengths and spatial resolutions are employed to test the signal penetration capability for identifying cultural heritage sites. Additionally, InSAR technology is utilized to assess the stability of the detected cultural heritage. <br>• Responsible for research involving the fusion of multi-source SAR data and predictive models for soil consolidation. Long-term dynamic monitoring of ancient buildings and large archaeological sites in cultural heritage preservation requires an assessment of both the main structures and their surrounding environments, with ground subsidence and structural deformation being crucial elements. Furthermore, some historical sites in the Rome area are built on soft soil foundations. Therefore, my research will also provide methodological and technical support for future research on cultural heritage preservation in both Wuhan and Rome urban areas for our collaborators.</th>
+    </tr>
+    <tr>
+    <th >📆2022.01-2022.12</th><th>Research on Key Technologies for Landslide Prediction in the Three Gorges Reservoir Area Based on Deep Learning</th><th>Department of Natural Resources of Hubei Province (China)</th>
+    </tr> 
+    <tr>
+    <th colspan="3">• The main research objective of this project is to effectively detect the extensive accumulation-induced landslides that have developed during the long geological evolution of the Three Gorges Reservoir area. The goal is to prevent and minimize the damage and losses caused by landslide disasters. This will be achieved by combining InSAR, deep learning, and geological knowledge to predict, forecast, and assess landslides effectively.<br>• Responsible for the fusion of multi-platform SAR data to obtain the longest time series of deformation curves in the Three Gorges Reservoir area. I have proposed a novel method for multi-source data fusion, addressing the inaccuracies associated with traditional fusion methods and the challenge of fusing data with non-overlapping regions. This approach provides the project with a valuable long-time series of point-based data for deep learning research.</th>
+    </tr>  
+    <tr>
+    <th >📆2020.01-2021.12</th><th>Joint Application Research of COSMO-SkyMed Data in Wuhan</th><th>CNR & ASI (Italy) WUHAN-CKS</th>  
+    </tr> 
+    <tr>
+    <th colspan="3">• Responsible for processing and analyzing the longest time series data of COSMO-SkyMed released in Wuhan to test non-linear PSInSAR technology. Revealed the characteristics of ground subsidence in the Wuhan area and elucidated its relationship with the city.</th>  
+    </tr>
+</table>
+
+
+
+<span class='anchor' id='conference'></span>
+
+# 🏛️ 学术会议
+<table align="left">
+    <tr>
+        <th>2023.10</th><th>TerraSAR-X/TanDEM-X Science Team Meeting 2023</th><th>口头报告</th><th>德国 慕尼黑</th>
+    </tr> 
+    <tr>
+        <th>2023.09</th><th>2023 Dragon 5 Symposium</th><th>口头报告</th><th>中国 呼和浩特</th>
+    </tr>
+    <tr>
+        <th>2023.09</th><th>The ISPRS 2023 Geospatial Week</th><th>口头报告</th><th>埃及 开罗</th>
+    </tr> 
+    <tr>
+        <th>2023.04</th><th>The EGU23 General Assembly</th><th>口头报告</th><th>奥地利 维也纳</th>
+    </tr>  
+    <tr>
+        <th>2021.10</th><th>全国博士生学术论坛(测绘科学与技术)</th><th>口头报告</th><th>中国 北京</th>
+    </tr> 
+    <tr>
+        <th>2021.06</th><th>2021 Dragon Symposium - Dragon 4 Final Results and Dragon 5 First year Report</th><th>口头报告</th><th>线上</th>
+    </tr>
+    <tr>
+        <th>2020.11</th><th>全国博士生学术论坛(测绘科学与技术)</th><th>口头报告</th><th>中国 西安</th>
+    </tr>
+    <tr>
+        <th>2019.09</th><th>全国博士生学术论坛(测绘科学与技术)</th><th>口头报告</th><th>中国 南京</th>        
+    </tr>
+</table>
+
+
+<span class='anchor' id='index'></span>
+
+# 🔗 合作导师
+李德仁院士，武汉大学测绘遥感信息工程国家重点实验室
+<br>李玉教授，辽宁工程技术大学, 测绘与地理科学学院, 遥感科学与应用研究所
+<br>Prof. Timo Balz, 武汉大学测绘遥感信息工程国家重点实验室
+<br>Prof. Mahdi Motagh, 亥姆霍兹波茨坦中心 - 德国地学中心(GFZ) & 莱布尼茨汉诺威大学(LUH)
+<br>Prof. Francesca Cigna, 意大利国家研究委员会(CNR) - 大气科学与气候研究所(ISAC)
+<br>Prof. Deodato Tapete, 意大利宇航局
 
 
