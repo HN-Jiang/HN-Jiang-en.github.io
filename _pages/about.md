@@ -56,7 +56,7 @@ Photogrammetry and Remote Sensing, Geohazard Monitoring, SAR & InSAR, Multi-Sens
 
 <span class='anchor' id='project'></span>
 
-# 📁 项目经历
+# 📁 Projects
 
 <table align="left">
     <tr>
@@ -89,43 +89,43 @@ Photogrammetry and Remote Sensing, Geohazard Monitoring, SAR & InSAR, Multi-Sens
 
 <span class='anchor' id='conference'></span>
 
-# 🏛️ 学术会议
+# 🏛️ Conference
 <table align="left">
     <tr>
-        <th>2023.10</th><th>TerraSAR-X/TanDEM-X Science Team Meeting 2023</th><th>口头报告</th><th>德国 慕尼黑</th>
+        <th>2023.10</th><th>TerraSAR-X/TanDEM-X Science Team Meeting 2023</th><th>Oral Presentation</th><th>Munich, Germany</th>
     </tr> 
     <tr>
-        <th>2023.09</th><th>2023 Dragon 5 Symposium</th><th>口头报告</th><th>中国 呼和浩特</th>
+        <th>2023.09</th><th>2023 Dragon 5 Symposium</th><th>Oral Presentation</th><th>Hohhot, China</th>
     </tr>
     <tr>
-        <th>2023.09</th><th>The ISPRS 2023 Geospatial Week</th><th>口头报告</th><th>埃及 开罗</th>
+        <th>2023.09</th><th>The ISPRS 2023 Geospatial Week</th><th>Oral Presentation</th><th>Cairo, Egypt</th>
     </tr> 
     <tr>
-        <th>2023.04</th><th>The EGU23 General Assembly</th><th>口头报告</th><th>奥地利 维也纳</th>
+        <th>2023.04</th><th>The EGU23 General Assembly</th><th>Oral Presentation</th><th>Vienna, Austria</th>
     </tr>  
     <tr>
-        <th>2021.10</th><th>全国博士生学术论坛(测绘科学与技术)</th><th>口头报告</th><th>中国 北京</th>
+        <th>2021.10</th><th>National Doctoral Student Academic Forum (Surveying Science and Technology)</th><th>Oral Presentation</th><th>Beijing, China</th>
     </tr> 
     <tr>
-        <th>2021.06</th><th>2021 Dragon Symposium - Dragon 4 Final Results and Dragon 5 First year Report</th><th>口头报告</th><th>线上</th>
+        <th>2021.06</th><th>2021 Dragon Symposium - Dragon 4 Final Results and Dragon 5 First year Report</th><th>Oral Presentation</th><th>Online</th>
     </tr>
     <tr>
-        <th>2020.11</th><th>全国博士生学术论坛(测绘科学与技术)</th><th>口头报告</th><th>中国 西安</th>
+        <th>2020.11</th><th>National Doctoral Student Academic Forum (Surveying Science and Technology)</th><th>Oral Presentation</th><th>Xi’an, China</th>
     </tr>
     <tr>
-        <th>2019.09</th><th>全国博士生学术论坛(测绘科学与技术)</th><th>口头报告</th><th>中国 南京</th>        
+        <th>2019.09</th><th>National Doctoral Student Academic Forum (Surveying Science and Technology)</th><th>Poster</th><th>Nanjing, China</th>        
     </tr>
 </table>
 
 
 <span class='anchor' id='index'></span>
 
-# 🔗 合作导师
-李德仁院士，武汉大学测绘遥感信息工程国家重点实验室
-<br>李玉教授，辽宁工程技术大学, 测绘与地理科学学院, 遥感科学与应用研究所
-<br>Prof. Timo Balz, 武汉大学测绘遥感信息工程国家重点实验室
-<br>Prof. Mahdi Motagh, 亥姆霍兹波茨坦中心 - 德国地学中心(GFZ) & 莱布尼茨汉诺威大学(LUH)
-<br>Prof. Francesca Cigna, 意大利国家研究委员会(CNR) - 大气科学与气候研究所(ISAC)
-<br>Prof. Deodato Tapete, 意大利宇航局
+# 🔗 Reference
+Prof. Deren Li, Wuhan University. Dual membership of both the Chinese Academy of Sciences and the Chinese Academy of Engineering.
+<br>Prof. Timo Balz, Wuhan University.
+<br>Prof. Mahdi Motagh, Helmholtz Centre Potsdam - GFZ German Research Centre for Geosciences (GFZ) & Leibniz University Hannover (LUH)
+<br>Prof. Francesca Cigna, National Research Council CNR - ISAC
+<br>Prof. Deodato Tapete, Agenzia Spaziale Italiana - Italian Space Agency (ASI) 
+
 
 
